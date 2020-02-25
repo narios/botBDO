@@ -1,6 +1,5 @@
 const Discord = require('discord.js');
 const Bot = new Discord.Client();
-const token = 'NjgxNzI1MzgyNjE3MjAyNjk4.XlSvYA.TCvQY9WXqr_NFuQNF7Qeu6gACPo';
 const PREFIX = '+';
 
 var fecha = new Date();
